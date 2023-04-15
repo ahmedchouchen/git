@@ -1,6 +1,1 @@
-hello  github
-<<<<<<< HEAD
-git +
-=======
-github+
->>>>>>> 79bd223d1c701d5c8ff5da1e491e37d335c9c2c8
+hello i am Ahmed CHOUCHEN
