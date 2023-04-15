@@ -1,19 +1,5 @@
 hello 
 i am ahmed CHOUCHEN
-<<<<<<< HEAD
 45 years
 i am from tunisia 
 and i iam DBA Postgresql and DevOps
-=======
-imy age is 45 years old 
-i am  tunisian 
-and  iam DBA Postgresql + DevOpsb 
-thanks
->>>>>>> 8ad18143003f715422103656052d33faedaf9336
-
-*************************************************************************************
-update from dev_github
-######################    git main  update
-
-
-##### git update only to main
