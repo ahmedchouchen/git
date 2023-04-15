@@ -1,6 +1,11 @@
 hello i am Ahmed CHOUCHEN
-git message...
 github message ...
+<<<<<<< HEAD
 
 ---------------------------------------- test git merge -----------------------------
 
+=======
+git message...
+
+---------------------------------------- test github merge -----------------------------
+>>>>>>> adf8db23916a610cbbe47d6ded88806f6cd2f1b3
