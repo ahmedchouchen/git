@@ -1,5 +1,25 @@
+<<<<<<< HEAD
 hello 
 i am ahmed CHOUCHEN
 44 years
+=======
+<<<<<<< HEAD
+Salut 
+
+je suis ahmed CHOUCHEN
+45 years
+>>>>>>> devops
 i am from tunisia 
-and  iam DBA Postgresql and DevOps
+and  iam DBA Postgresql et DevOps
+=======
+hello 
+i am Mr ahmed CHOUCHEN , 45 years
+
+i am from sfax 
+and  iam DBA Postgresql + DevOps
+-----------------------------------------------------
+>>>>>>> c932a99f9a34d5692bc5acb256558074f6e9891e
+******************************************************
+############################################################################################
+git : i am writing on devepos branche 18/04/2023
+github update 
