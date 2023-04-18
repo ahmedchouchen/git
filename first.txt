@@ -1,8 +1,9 @@
 hello 
-i am ahmed CHOUCHEN
-45 years
-i am from tunisia 
-and  iam DBA Postgresql and DevOps
+i am Mr ahmed CHOUCHEN , 45 years
+
+i am from sfax 
+and  iam DBA Postgresql + DevOps
+-----------------------------------------------------
 ******************************************************
 git : i am writing on devepos branche 18/04/2023
-
+github update 
